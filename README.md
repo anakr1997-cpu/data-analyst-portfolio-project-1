@@ -79,7 +79,10 @@ The Power BI dashboard provides visibility into:
 
 ##  Dashboard
 
-![Hotel Revenue Dashboard](Images/hotel_dashboard.png)
+![Hotel Revenue Dashboard](hotel_dashboard.png)
+
+**[Download Power BI Dashboard](hotel_revenue_dashboard.pbix)**
+
 
 
 ##  Project Takeaway
@@ -92,15 +95,8 @@ I combined three years of hotel booking data, integrated additional market-segme
 
 ---
 
-##  Project Files
+## 📂 Project Files
 
-```text
-Hotel-Revenue-Analysis/
-│
-├── README.md
-├── SQL/
-│   └── hotel_analysis.sql
-├── PowerBI/
-│   └── hotel_revenue_dashboard.pbix
-└── Images/
-    └── hotel_dashboard.png
+- **[SQL Analysis](hotel_analysis.sql)** — SQL queries used to explore, prepare, and analyze the hotel data.
+- **[Power BI Dashboard](hotel_revenue_dashboard.pbix)** — Power BI dashboard file.
+- **[Dashboard Preview](hotel_dashboard.png)** — Screenshot of the completed dashboard.
