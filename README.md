@@ -79,9 +79,8 @@ The Power BI dashboard provides visibility into:
 
 ##  Dashboard
 
-![Hotel Revenue Dashboard](Images/hotel_dashboard.png)
+<img width="1529" height="844" alt="hotel_dashboard" src="https://github.com/user-attachments/assets/f84026b4-4117-48be-a8c1-487cded6a9dd" />
 
----
 
 ##  Project Takeaway
 
